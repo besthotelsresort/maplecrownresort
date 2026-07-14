@@ -1,0 +1,2 @@
+# maplecrownresort
+Static site: maplecrownresort
